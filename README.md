@@ -1,6 +1,6 @@
 ## Bem vindo
 Como já deve ter percebido meu nome é Rodolfo Angelo Vieira Fonseca, sou apaixonado por tecnologia e programação.<br/>
-<p> Acostumado com diversas linguagens de programação como <strong>PHP</strong>, <strong>Java</strong>, <strong>C#</strong>. Amante de diversos sistemas operacionais Linux, tendo como principal distribuição o <strong>Ubuntu</strong>, mas nada contra deves em quando usar o Mint também.</p>
+<p> Acostumado com diversas linguagens de programação como <strong>PHP</strong>, <strong>Java</strong>, <strong>C#</strong>. Amante de diversos sistemas operacionais Linux, tendo como principal distribuição o <strong>Ubuntu</strong>, mas nada contra de ves em quando usar o Mint também.</p>
 <!--
 ### Last song played:
 <img src="https://spotify-github-profile.vercel.app/api/view?uid=qd2tk4ozstw4tr5m0scksklhq&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=true">
